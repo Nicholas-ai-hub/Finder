@@ -4,7 +4,7 @@
                         <h2 class="text-2xl font-bold uppercase mb-1">
                             Log in
                         </h2>
-                        <p class="mb-4">Log into your account to post and find jobs</p>
+                        <p class="mb-4">Log into your account to post and find statements</p>
                     </header>
 
                     <form action="/users/authenticate" method="POST">
