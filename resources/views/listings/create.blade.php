@@ -2,7 +2,7 @@
 <x-card class="p-10 max-w-lg mx-auto mt-24">
                     <header class="text-center">
                         <h2 class="text-2xl font-bold uppercase mb-1">
-                            Create a Job 
+                            Create a Statement 
                         </h2>
                         <p class="mb-4">Post to find a developer</p>
                     </header>
@@ -29,7 +29,7 @@
 
                         <div class="mb-6">
                             <label for="title" class="inline-block text-lg mb-2"
-                                >Job Title</label
+                                >Title</label
                             >
                             <input
                                 type="text"
@@ -129,7 +129,7 @@
                                 for="description"
                                 class="inline-block text-lg mb-2"
                             >
-                                Job Description
+                               Description
                             </label>
                             <textarea
                                 class="border border-gray-200 rounded p-2 w-full"
@@ -147,7 +147,7 @@
                             <button
                                 class="bg-laravel text-white rounded py-2 px-4 hover:bg-black"
                             >
-                                Create Job
+                                Create
                             </button>
 
                             <a href="/" class="text-black ml-4"> Back </a>
