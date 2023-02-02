@@ -25,7 +25,7 @@
                 },
             };
         </script>
-        <title>Find Jobs & Projects</title>
+        <title>Find Statements</title>
     </head>
     <body class="mb-48">
         <nav class="flex justify-between items-center mb-4">
@@ -79,7 +79,7 @@
             <a
                 href="/listings/create"
                 class="absolute top-1/3 right-10 bg-black text-white py-2 px-5"
-                >Post Job</a
+                >Post Statement</a
             >
         </footer>
         <x-flash-message />
