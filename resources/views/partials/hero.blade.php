@@ -9,10 +9,10 @@
 
             <div class="z-10">
                 <h1 class="text-6xl font-bold uppercase text-white">
-                    Jobs<span class="text-black">Finder</span>
+                    Statements<span class="text-black">Finder</span>
                 </h1>
                 <p class="text-2xl text-gray-200 font-bold my-4">
-                    Find or post jobs & projects
+                    Find or post statements & projects
                 </p>
                 @guest
                 <div>
